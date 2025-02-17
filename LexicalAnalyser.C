@@ -3,7 +3,6 @@
 #include <ctype.h>
 #include <string.h>
 
-// List of keywords in C
 const char *keywords[] = {"int", "float", "if", "else", "while", "return", "char", "void", "for"};
 const int keyword_count = 9;
 
